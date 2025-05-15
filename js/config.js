@@ -105,6 +105,12 @@ const API_SITES = {
         api: 'https://ikunzyapi.com',
         name: 'iKun资源'
     },
+    jkun: {
+         api: 'https://jkunzyapi.com',
+         name: 'jkun资源'
+
+        
+    },
     testSource: {
         api: 'https://www.example.com',
         name: '空内容测试源',
