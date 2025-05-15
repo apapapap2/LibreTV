@@ -121,7 +121,7 @@ const API_SITES = {
     // ckzy: {
     //     api: 'https://www.ckzy1.com',
     //     name: 'CK资源',
-    //     adult: true
+    //     adult: false
     // },
     // jkun: {
     //     api: 'https://jkunzyapi.com',
