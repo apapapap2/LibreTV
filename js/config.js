@@ -122,10 +122,10 @@ const API_SITES = {
     //     api: 'https://www.ckzy1.com',
     //     name: 'CK资源',
     //     adult: false
-    // },
-    // jkun: {
-    //     api: 'https://jkunzyapi.com',
-    //     name: 'jkun资源',
+    },
+    jkun: {
+         api: 'https://jkunzyapi.com',
+         name: 'jkun资源',
     //     adult: true
     // },
     // bwzy: {
@@ -241,4 +241,4 @@ const CUSTOM_API_CONFIG = {
 };
 
 // 隐藏内置黄色采集站API的变量
-const HIDE_BUILTIN_ADULT_APIS = true;
+const HIDE_BUILTIN_ADULT_APIS = false;
